@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/BannerOficial.png" alt="Banner Prosa Code" width="100%">
+</p>
+
 # ☕📚 Prosa Code
 
 > **Unindo café, código e literatura.**  
