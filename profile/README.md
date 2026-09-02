@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/BannerOficial.png" alt="Banner Prosa Code" width="100%">
+  <img src="../images/BannerOficial.png" alt="Banner Prosa Code" width="100%">
 </p>
 
 # ☕📚 Prosa Code
