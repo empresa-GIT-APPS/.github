@@ -31,16 +31,52 @@ A **Prosa Code** nasceu da união entre a paixão pela leitura, o ambiente acolh
 
 ---
 
-## 👥 Nossa Equipe e Atribuições
+## 👥 Nossa Equipe
 
-| Integrante | Função Principal | Atribuições no Projeto |
-| :--- | :--- | :--- |
-| 🎨 **Agatha** | Design & Front-end | Design visual, interface do utilizador (UI/UX) e gestão do GitHub |
-| 💻 **Eduardo** | Front-end | Desenvolvimento da interface gráfica e experiência do utilizador |
-| ⚙️ **Felipe** | Back-end | Arquitetura do sistema, regras de negócio e banco de dados |
-| ⚙️ **Leandro** | Back-end | Lógica da aplicação, regras de negócio e persistência de dados |
-| 📋 **Rayssa** | Organização & Front-end | Gestão de processos, apoio no Front-end e gestão do GitHub |
-
+<table>
+  <tr>
+    <td align="center" width="20%">
+      <a href="https://github.com/Batmilly">
+        <img src="https://github.com/Batmilly.png" width="90px" style="border-radius: 50%;"><br>
+        <b>Agatha</b>
+      </a><br>
+      <img src="https://img.shields.io/badge/Design_%26_UI-27081D?style=flat-square&logoColor=white"><br>
+      <sub>🎨 Design & Front-end</sub>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://github.com/EduSousaAPontes">
+        <img src="https://github.com/EduSousaAPontes.png" width="90px" style="border-radius: 50%;"><br>
+        <b>Eduardo</b>
+      </a><br>
+      <img src="https://img.shields.io/badge/Front--end-47232C?style=flat-square&logoColor=white"><br>
+      <sub>💻 Front-end</sub>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://github.com/felipechen14-droid">
+        <img src="https://github.com/felipechen14-droid.png" width="90px" style="border-radius: 50%;"><br>
+        <b>Felipe Chen</b>
+      </a><br>
+      <img src="https://img.shields.io/badge/Back--end-66997B?style=flat-square&logoColor=white"><br>
+      <sub>⚙️ Back-end</sub>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://github.com/le4ndror">
+        <img src="https://github.com/le4ndror.png" width="90px" style="border-radius: 50%;"><br>
+        <b>Leandro</b>
+      </a><br>
+      <img src="https://img.shields.io/badge/Back--end-A4CA8B?style=flat-square&logoColor=27081D"><br>
+      <sub>⚙️ Back-end</sub>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://github.com/Rayssa-py">
+        <img src="https://github.com/Rayssa-py.png" width="90px" style="border-radius: 50%;"><br>
+        <b>Rayssa</b>
+      </a><br>
+      <img src="https://img.shields.io/badge/Org_%26_Front-D2E7AA?style=flat-square&logoColor=27081D"><br>
+      <sub>📋 Org & Front-end</sub>
+    </td>
+  </tr>
+</table>
 ---
 
 ## 📖 Nosso Projeto Principal: Sistema de Gestão de Sebos
