@@ -1,3 +1,19 @@
+
+<div align="center">
+
+[![Startup](https://img.shields.io/badge/Startup-Prosa%20Code-27081D?style=for-the-badge&logo=codefactor&logoColor=D2E7AA)](https://github.com/Prosa-Code)
+[![IFCE](https://img.shields.io/badge/IFCE-POO%202026.2-47232C?style=for-the-badge&logo=education&logoColor=white)](https://ifce.edu.br)
+[![Licença](https://img.shields.io/badge/Licen%C3%A7a-MIT-66997B?style=for-the-badge)](LICENSE)
+
+[![Java](https://img.shields.io/badge/Java-17%2B-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
+[![JavaFX](https://img.shields.io/badge/GUI-JavaFX%20%2F%20CSS-66997B?style=for-the-badge&logo=java&logoColor=white)](https://openjfx.io/)
+[![MySQL](https://img.shields.io/badge/Database-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Estilo](https://img.shields.io/badge/Design-Pixel%20Art%2016--bits-A4CA8B?style=for-the-badge&logo=artstation&logoColor=27081D)](#)
+
+</div>
+
+---
+
 <p align="center">
   <img src="../images/BannerOficial.png" alt="Banner Prosa Code" width="100%">
 </p>
