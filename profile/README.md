@@ -41,7 +41,7 @@ O nosso produto carro-chefe é um sistema desktop desenvolvido em Java pensado p
 ## 🛠️ Tecnologias & Ferramentas
 
 - **Linguagem Principal:** Java ☕
-- **Interface Gráfica (UI):** JavaFX / Swing 🖥️
+- **Interface Gráfica (UI):** JavaFX
 - **Banco de Dados:** MySQL 🗄️
 - **Versionamento & Gestão:** Git & GitHub 🐙
 
